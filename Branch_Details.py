@@ -1,4 +1,4 @@
-branch_name = ("durban")
+branch_name = ("kwamashu")
 staff_count =10
 today_date ="28 august 2026"
 
